@@ -1,0 +1,45 @@
+<svg width="450" height="90" viewBox="0 0 450 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- TM Symbol -->
+  <text x="415" y="20" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#000000">TM</text>
+  
+  <!-- MOVIN text (black, bold) -->
+  <text x="20" y="45" font-family="Impact, Arial Black, sans-serif" font-size="48" font-weight="900" fill="#000000" letter-spacing="-2">MOVIN</text>
+  
+  <!-- Black rectangle background for AIR -->
+  <rect x="195" y="8" width="110" height="50" rx="4" fill="#000000"/>
+  
+  <!-- AIR text (white on black background) -->
+  <text x="205" y="45" font-family="Impact, Arial Black, sans-serif" font-size="48" font-weight="900" fill="#FFFFFF" letter-spacing="-2">AIR</text>
+  
+  <!-- Shoe Lace Icon -->
+  <g id="shoelace-icon" transform="translate(320, 15)">
+    <!-- Top row eyelets -->
+    <circle cx="10" cy="8" r="5" fill="none" stroke="#000000" stroke-width="2"/>
+    <circle cx="10" cy="8" r="2.5" fill="#000000"/>
+    
+    <circle cx="32" cy="8" r="5" fill="none" stroke="#000000" stroke-width="2"/>
+    <circle cx="32" cy="8" r="2.5" fill="#000000"/>
+    
+    <!-- Crossed laces top -->
+    <path d="M 12 9 Q 21 14 30 9" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M 12 7 Q 21 2 30 7" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+    
+    <!-- Vertical connecting lines -->
+    <line x1="10" y1="13" x2="10" y2="23" stroke="#000000" stroke-width="2"/>
+    <line x1="32" y1="13" x2="32" y2="23" stroke="#000000" stroke-width="2"/>
+    
+    <!-- Bottom row eyelets -->
+    <circle cx="10" cy="28" r="5" fill="none" stroke="#000000" stroke-width="2"/>
+    <circle cx="10" cy="28" r="2.5" fill="#000000"/>
+    
+    <circle cx="32" cy="28" r="5" fill="none" stroke="#000000" stroke-width="2"/>
+    <circle cx="32" cy="28" r="2.5" fill="#000000"/>
+    
+    <!-- Crossed laces bottom -->
+    <path d="M 12 29 Q 21 34 30 29" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M 12 27 Q 21 22 30 27" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  
+  <!-- COMFORTABLE EVERY WHERE tagline -->
+  <text x="320" y="70" font-family="Arial, sans-serif" font-size="9" font-weight="normal" fill="#000000" letter-spacing="1">COMFORTABLE EVERY WHERE</text>
+</svg>
